@@ -1,0 +1,1 @@
+"""LLM Observer System — evolutionary prompt-based observers via Ollama."""

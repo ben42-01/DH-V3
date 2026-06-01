@@ -1,0 +1,28 @@
+{
+  "id": "core-concepts",
+  "title": "Core Concepts",
+  "description": "The World (Ground Truth)",
+  "source": "@site/docs/core-concepts.md",
+  "sourceDirName": ".",
+  "slug": "/core-concepts",
+  "permalink": "/core-concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/core-concepts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Core Concepts"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/intro"
+  },
+  "next": {
+    "title": "Running Experiments",
+    "permalink": "/running-experiments"
+  }
+}

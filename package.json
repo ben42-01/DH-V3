@@ -1,0 +1,16 @@
+{
+  "name": "dh-v3",
+  "version": "1.0.0",
+  "description": "> *Can minds evolve their own reality from pure probability?*",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run:base":"uv run python ./src/tracereality/experiments/main_core.py --n_states 80 --n_clusters 8 --n_observers 40 --n_steps 100000 --seeds 1 2 3 --prefix base_run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "running-experiments",
+  "title": "Running Experiments",
+  "description": "Quick Start",
+  "source": "@site/docs/running-experiments.md",
+  "sourceDirName": ".",
+  "slug": "/running-experiments",
+  "permalink": "/running-experiments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/running-experiments.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Running Experiments"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Core Concepts",
+    "permalink": "/core-concepts"
+  },
+  "next": {
+    "title": "Metrics Reference",
+    "permalink": "/metrics-reference"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "results-interpretation",
+  "title": "Results Interpretation",
+  "description": "Quick Start: Reading Your First Result",
+  "source": "@site/docs/results-interpretation.md",
+  "sourceDirName": ".",
+  "slug": "/results-interpretation",
+  "permalink": "/results-interpretation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/results-interpretation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Results Interpretation"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Metrics Reference",
+    "permalink": "/metrics-reference"
+  },
+  "next": {
+    "title": "Experiments Overview",
+    "permalink": "/experiments"
+  }
+}

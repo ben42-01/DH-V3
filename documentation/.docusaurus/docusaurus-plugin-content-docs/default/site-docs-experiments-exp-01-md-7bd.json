@@ -1,0 +1,28 @@
+{
+  "id": "experiments/exp-01",
+  "title": "Exp 01 - Baseline",
+  "description": "Research Question",
+  "source": "@site/docs/experiments/exp-01.md",
+  "sourceDirName": "experiments",
+  "slug": "/experiments/exp-01",
+  "permalink": "/experiments/exp-01",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/experiments/exp-01.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Exp 01 - Baseline"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Experiments Overview",
+    "permalink": "/experiments"
+  },
+  "next": {
+    "title": "Exp 02 - Extended Run (200k Steps)",
+    "permalink": "/experiments/exp-02"
+  }
+}

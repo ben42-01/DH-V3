@@ -1,0 +1,29 @@
+[project]
+name = "tracereality"
+version = "0.1.0"
+description = "Research-grade evolutionary Markov observers for testing Donald Hoffman's interface theory"
+requires-python = ">=3.10"
+authors = [
+    { name = "TraceReality Team" },
+]
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "scipy>=1.10",
+    "scikit-learn>=1.3",
+    "torch>=2.0",
+    "matplotlib>=3.7",
+    "requests>=2.31",
+    "sentence-transformers>=2.2",
+    "pyarrow>=12.0",
+]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+tracereality = ["py.typed"]

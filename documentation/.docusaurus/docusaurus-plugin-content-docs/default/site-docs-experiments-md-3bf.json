@@ -1,0 +1,29 @@
+{
+  "id": "experiments",
+  "title": "Experiments Overview",
+  "description": "This section documents all the experiments conducted with TraceReality. Each experiment tests specific hypotheses about how neural observers learn hidden world structures through evolutionary selection.",
+  "source": "@site/docs/experiments.md",
+  "sourceDirName": ".",
+  "slug": "/experiments",
+  "permalink": "/experiments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/experiments.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Experiments Overview",
+    "slug": "experiments"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Results Interpretation",
+    "permalink": "/results-interpretation"
+  },
+  "next": {
+    "title": "Exp 01 - Baseline",
+    "permalink": "/experiments/exp-01"
+  }
+}

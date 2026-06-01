@@ -1,0 +1,28 @@
+{
+  "id": "metrics-reference",
+  "title": "Metrics Reference",
+  "description": "Primary Metrics",
+  "source": "@site/docs/metrics-reference.md",
+  "sourceDirName": ".",
+  "slug": "/metrics-reference",
+  "permalink": "/metrics-reference",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/metrics-reference.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Metrics Reference"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Running Experiments",
+    "permalink": "/running-experiments"
+  },
+  "next": {
+    "title": "Results Interpretation",
+    "permalink": "/results-interpretation"
+  }
+}

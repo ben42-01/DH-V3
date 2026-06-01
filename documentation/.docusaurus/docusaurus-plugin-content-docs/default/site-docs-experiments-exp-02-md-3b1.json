@@ -1,0 +1,28 @@
+{
+  "id": "experiments/exp-02",
+  "title": "Exp 02 - Extended Run (200k Steps)",
+  "description": "Research Question",
+  "source": "@site/docs/experiments/exp-02.md",
+  "sourceDirName": "experiments",
+  "slug": "/experiments/exp-02",
+  "permalink": "/experiments/exp-02",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/experiments/exp-02.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Exp 02 - Extended Run (200k Steps)"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exp 01 - Baseline",
+    "permalink": "/experiments/exp-01"
+  },
+  "next": {
+    "title": "Exp 03 - Generation Scaling",
+    "permalink": "/experiments/exp-03"
+  }
+}

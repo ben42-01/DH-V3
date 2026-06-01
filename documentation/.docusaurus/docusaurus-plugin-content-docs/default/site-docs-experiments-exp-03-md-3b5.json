@@ -1,0 +1,28 @@
+{
+  "id": "experiments/exp-03",
+  "title": "Exp 03 - Generation Scaling",
+  "description": "Research Question",
+  "source": "@site/docs/experiments/exp-03.md",
+  "sourceDirName": "experiments",
+  "slug": "/experiments/exp-03",
+  "permalink": "/experiments/exp-03",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/experiments/exp-03.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Exp 03 - Generation Scaling"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exp 02 - Extended Run (200k Steps)",
+    "permalink": "/experiments/exp-02"
+  },
+  "next": {
+    "title": "Exp 04 - Population Scaling",
+    "permalink": "/experiments/exp-04"
+  }
+}
