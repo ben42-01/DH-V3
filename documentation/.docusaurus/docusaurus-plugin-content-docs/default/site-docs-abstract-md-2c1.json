@@ -13,6 +13,10 @@
   "version": "current",
   "frontMatter": {},
   "sidebar": "docsSidebar",
+  "previous": {
+    "title": "TraceReality Documentation",
+    "permalink": "/DH-V3/"
+  },
   "next": {
     "title": "intro",
     "permalink": "/DH-V3/intro"

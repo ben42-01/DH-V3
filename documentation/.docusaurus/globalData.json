@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/DH-V3/",
-          "mainDocId": "abstract",
+          "mainDocId": "index",
           "docs": [
             {
               "id": "abstract",
@@ -46,6 +46,11 @@
               "sidebar": "docsSidebar"
             },
             {
+              "id": "index",
+              "path": "/DH-V3/",
+              "sidebar": "docsSidebar"
+            },
+            {
               "id": "intro",
               "path": "/DH-V3/intro",
               "sidebar": "docsSidebar"
@@ -70,8 +75,8 @@
           "sidebars": {
             "docsSidebar": {
               "link": {
-                "path": "/DH-V3/abstract",
-                "label": "abstract"
+                "path": "/DH-V3/",
+                "label": "index"
               }
             }
           }

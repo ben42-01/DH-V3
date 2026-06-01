@@ -1,6 +1,7 @@
 /** @type {import('@docusaurus/sidebar-utils').SidebarsConfig} */
 const sidebars = {
   docsSidebar: [
+    'index',
     'abstract',
     'intro',
     'core-concepts',

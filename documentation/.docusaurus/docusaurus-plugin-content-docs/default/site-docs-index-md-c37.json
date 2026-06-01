@@ -1,0 +1,25 @@
+{
+  "id": "index",
+  "title": "TraceReality Documentation",
+  "description": "Welcome to the comprehensive documentation for TraceReality — a computational framework for studying how artificial observers learn to model and predict hidden world structures through evolutionary learning.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/DH-V3/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "slug": "/",
+    "title": "TraceReality Documentation"
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Convergent Evolution of Simplified Interfaces",
+    "permalink": "/DH-V3/abstract"
+  }
+}
