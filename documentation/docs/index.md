@@ -4,6 +4,7 @@ slug: /
 title: TraceReality Documentation
 ---
 
+![TraceReality](./_assets/page.png)
 # TraceReality Documentation
 
 Welcome to the comprehensive documentation for **TraceReality** — a computational framework for studying how artificial observers learn to model and predict hidden world structures through evolutionary learning.

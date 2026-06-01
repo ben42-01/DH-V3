@@ -10,7 +10,7 @@ const katex = require('rehype-katex');
 const config = {
   title: 'TraceReality Documentation',
   tagline: 'Evolutionary Learning in Hidden Markov Worlds',
-  favicon: 'img/logo.png',
+  favicon: 'img/logo2.png',
 
   url: 'https://ben42-01.github.io',
   baseUrl: '/DH-V3/',
@@ -64,7 +64,7 @@ const config = {
         title: 'TraceReality',
         logo: {
           alt: 'TraceReality Logo',
-          src: 'img/logo.png',
+          src: 'img/logo2.png',
           href: '#',
         },
         items: [

@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "TraceReality Documentation",
-  "description": "Welcome to the comprehensive documentation for TraceReality — a computational framework for studying how artificial observers learn to model and predict hidden world structures through evolutionary learning.",
+  "description": "TraceReality",
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
