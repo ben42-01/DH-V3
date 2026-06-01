@@ -39,8 +39,8 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/yourusername/dh-v3/tree/main/documentation',
-          remarkPlugins: [math],
-          rehypePlugins: [katex],
+          remarkPlugins: [[math, {}]],
+          rehypePlugins: [[katex, {}]],
         },
         blog: false,
         theme: {
