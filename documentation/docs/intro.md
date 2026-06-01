@@ -1,9 +1,6 @@
----
-sidebar_position: 1
-title: Introduction
----
 
-# TraceReality Documentation
+
+# `TraceReality` 
 
 Welcome to **TraceReality** — a computational framework for studying how artificial observers learn to model and predict hidden world structures through evolutionary learning.
 

@@ -8,8 +8,13 @@
           "label": "Next",
           "isLast": true,
           "path": "/",
-          "mainDocId": "intro",
+          "mainDocId": "abstract",
           "docs": [
+            {
+              "id": "abstract",
+              "path": "/abstract",
+              "sidebar": "docsSidebar"
+            },
             {
               "id": "core-concepts",
               "path": "/core-concepts",
@@ -65,8 +70,8 @@
           "sidebars": {
             "docsSidebar": {
               "link": {
-                "path": "/intro",
-                "label": "intro"
+                "path": "/abstract",
+                "label": "abstract"
               }
             }
           }

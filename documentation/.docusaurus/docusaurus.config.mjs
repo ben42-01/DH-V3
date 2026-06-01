@@ -6,8 +6,8 @@
 export default {
   "title": "TraceReality Documentation",
   "tagline": "Evolutionary Learning in Hidden Markov Worlds",
-  "favicon": "img/favicon.ico",
-  "url": "https://localhost:3000",
+  "favicon": "img/logo.png",
+  "url": "http://localhost:3000",
   "baseUrl": "/",
   "organizationName": "dh-v3",
   "projectName": "tracereality-docs",
@@ -70,7 +70,8 @@ export default {
       "title": "TraceReality",
       "logo": {
         "alt": "TraceReality Logo",
-        "src": "img/logo.svg"
+        "src": "img/logo.png",
+        "href": "#"
       },
       "items": [
         {

@@ -1,0 +1,20 @@
+{
+  "id": "abstract",
+  "title": "Convergent Evolution of Simplified Interfaces",
+  "description": "Data drops to whispers, compressed till it clears,Refining the chaos to map out our fears.For a world made of signals is fragile and blind,Until it is stitched in the loom of the mind;And the lines of the matrix hold steady and true,Not by counting the facts, but by shaping the view.",
+  "source": "@site/docs/abstract.md",
+  "sourceDirName": ".",
+  "slug": "/abstract",
+  "permalink": "/abstract",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/abstract.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "TraceReality",
+    "permalink": "/intro"
+  }
+}
