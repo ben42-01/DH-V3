@@ -3,115 +3,115 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/DH-V3/__docusaurus/debug',
+    component: ComponentCreator('/DH-V3/__docusaurus/debug', '0e4'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/DH-V3/__docusaurus/debug/config',
+    component: ComponentCreator('/DH-V3/__docusaurus/debug/config', '3b2'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    path: '/DH-V3/__docusaurus/debug/content',
+    component: ComponentCreator('/DH-V3/__docusaurus/debug/content', '7b3'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/DH-V3/__docusaurus/debug/globalData',
+    component: ComponentCreator('/DH-V3/__docusaurus/debug/globalData', 'b81'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/DH-V3/__docusaurus/debug/metadata',
+    component: ComponentCreator('/DH-V3/__docusaurus/debug/metadata', 'f72'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/DH-V3/__docusaurus/debug/registry',
+    component: ComponentCreator('/DH-V3/__docusaurus/debug/registry', 'eb4'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/DH-V3/__docusaurus/debug/routes',
+    component: ComponentCreator('/DH-V3/__docusaurus/debug/routes', '831'),
     exact: true
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'b36'),
+    path: '/DH-V3/',
+    component: ComponentCreator('/DH-V3/', '4c6'),
     routes: [
       {
-        path: '/',
-        component: ComponentCreator('/', 'e2c'),
+        path: '/DH-V3/',
+        component: ComponentCreator('/DH-V3/', '705'),
         routes: [
           {
-            path: '/',
-            component: ComponentCreator('/', '417'),
+            path: '/DH-V3/',
+            component: ComponentCreator('/DH-V3/', '472'),
             routes: [
               {
-                path: '/abstract',
-                component: ComponentCreator('/abstract', '002'),
+                path: '/DH-V3/abstract',
+                component: ComponentCreator('/DH-V3/abstract', '50b'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/core-concepts',
-                component: ComponentCreator('/core-concepts', 'ee7'),
+                path: '/DH-V3/core-concepts',
+                component: ComponentCreator('/DH-V3/core-concepts', '81e'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/experiments',
-                component: ComponentCreator('/experiments', '03c'),
+                path: '/DH-V3/experiments',
+                component: ComponentCreator('/DH-V3/experiments', '7d7'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/experiments/exp-01',
-                component: ComponentCreator('/experiments/exp-01', '50b'),
+                path: '/DH-V3/experiments/exp-01',
+                component: ComponentCreator('/DH-V3/experiments/exp-01', '1a7'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/experiments/exp-02',
-                component: ComponentCreator('/experiments/exp-02', 'eec'),
+                path: '/DH-V3/experiments/exp-02',
+                component: ComponentCreator('/DH-V3/experiments/exp-02', 'c25'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/experiments/exp-03',
-                component: ComponentCreator('/experiments/exp-03', '8a8'),
+                path: '/DH-V3/experiments/exp-03',
+                component: ComponentCreator('/DH-V3/experiments/exp-03', '54b'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/experiments/exp-04',
-                component: ComponentCreator('/experiments/exp-04', '105'),
+                path: '/DH-V3/experiments/exp-04',
+                component: ComponentCreator('/DH-V3/experiments/exp-04', 'fa2'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/intro',
-                component: ComponentCreator('/intro', '4a2'),
+                path: '/DH-V3/intro',
+                component: ComponentCreator('/DH-V3/intro', 'd79'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/metrics-reference',
-                component: ComponentCreator('/metrics-reference', 'eed'),
+                path: '/DH-V3/metrics-reference',
+                component: ComponentCreator('/DH-V3/metrics-reference', 'f1a'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/results-interpretation',
-                component: ComponentCreator('/results-interpretation', 'a2a'),
+                path: '/DH-V3/results-interpretation',
+                component: ComponentCreator('/DH-V3/results-interpretation', 'fb7'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/running-experiments',
-                component: ComponentCreator('/running-experiments', '997'),
+                path: '/DH-V3/running-experiments',
+                component: ComponentCreator('/DH-V3/running-experiments', '2eb'),
                 exact: true,
                 sidebar: "docsSidebar"
               }

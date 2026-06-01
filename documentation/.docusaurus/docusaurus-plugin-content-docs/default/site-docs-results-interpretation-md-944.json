@@ -5,7 +5,7 @@
   "source": "@site/docs/results-interpretation.md",
   "sourceDirName": ".",
   "slug": "/results-interpretation",
-  "permalink": "/results-interpretation",
+  "permalink": "/DH-V3/results-interpretation",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/results-interpretation.md",
@@ -19,10 +19,10 @@
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Metrics Reference",
-    "permalink": "/metrics-reference"
+    "permalink": "/DH-V3/metrics-reference"
   },
   "next": {
     "title": "Experiments Overview",
-    "permalink": "/experiments"
+    "permalink": "/DH-V3/experiments"
   }
 }

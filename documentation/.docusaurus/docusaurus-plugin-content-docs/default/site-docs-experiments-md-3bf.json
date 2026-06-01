@@ -5,7 +5,7 @@
   "source": "@site/docs/experiments.md",
   "sourceDirName": ".",
   "slug": "/experiments",
-  "permalink": "/experiments",
+  "permalink": "/DH-V3/experiments",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/experiments.md",
@@ -20,10 +20,10 @@
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Results Interpretation",
-    "permalink": "/results-interpretation"
+    "permalink": "/DH-V3/results-interpretation"
   },
   "next": {
     "title": "Exp 01 - Baseline",
-    "permalink": "/experiments/exp-01"
+    "permalink": "/DH-V3/experiments/exp-01"
   }
 }

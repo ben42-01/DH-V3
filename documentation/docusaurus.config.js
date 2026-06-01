@@ -12,10 +12,10 @@ const config = {
   tagline: 'Evolutionary Learning in Hidden Markov Worlds',
   favicon: 'img/logo.png',
 
-  url: 'http://localhost:3000',
-  baseUrl: '/',
-  organizationName: 'dh-v3',
-  projectName: 'tracereality-docs',
+  url: 'https://ben42-01.github.io',
+  baseUrl: '/DH-V3/',
+  organizationName: 'ben42-01',
+  projectName: 'DH-V3',
 
   onBrokenLinks: 'warn',
 

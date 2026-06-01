@@ -13,8 +13,8 @@
       "calendar": "gregory",
       "path": "en",
       "translate": false,
-      "url": "http://localhost:3000",
-      "baseUrl": "/"
+      "url": "https://ben42-01.github.io",
+      "baseUrl": "/DH-V3/"
     }
   }
 }

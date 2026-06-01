@@ -1,68 +1,68 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/DH-V3/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/",
+          "path": "/DH-V3/",
           "mainDocId": "abstract",
           "docs": [
             {
               "id": "abstract",
-              "path": "/abstract",
+              "path": "/DH-V3/abstract",
               "sidebar": "docsSidebar"
             },
             {
               "id": "core-concepts",
-              "path": "/core-concepts",
+              "path": "/DH-V3/core-concepts",
               "sidebar": "docsSidebar"
             },
             {
               "id": "experiments",
-              "path": "/experiments",
+              "path": "/DH-V3/experiments",
               "sidebar": "docsSidebar"
             },
             {
               "id": "experiments/exp-01",
-              "path": "/experiments/exp-01",
+              "path": "/DH-V3/experiments/exp-01",
               "sidebar": "docsSidebar"
             },
             {
               "id": "experiments/exp-02",
-              "path": "/experiments/exp-02",
+              "path": "/DH-V3/experiments/exp-02",
               "sidebar": "docsSidebar"
             },
             {
               "id": "experiments/exp-03",
-              "path": "/experiments/exp-03",
+              "path": "/DH-V3/experiments/exp-03",
               "sidebar": "docsSidebar"
             },
             {
               "id": "experiments/exp-04",
-              "path": "/experiments/exp-04",
+              "path": "/DH-V3/experiments/exp-04",
               "sidebar": "docsSidebar"
             },
             {
               "id": "intro",
-              "path": "/intro",
+              "path": "/DH-V3/intro",
               "sidebar": "docsSidebar"
             },
             {
               "id": "metrics-reference",
-              "path": "/metrics-reference",
+              "path": "/DH-V3/metrics-reference",
               "sidebar": "docsSidebar"
             },
             {
               "id": "results-interpretation",
-              "path": "/results-interpretation",
+              "path": "/DH-V3/results-interpretation",
               "sidebar": "docsSidebar"
             },
             {
               "id": "running-experiments",
-              "path": "/running-experiments",
+              "path": "/DH-V3/running-experiments",
               "sidebar": "docsSidebar"
             }
           ],
@@ -70,7 +70,7 @@
           "sidebars": {
             "docsSidebar": {
               "link": {
-                "path": "/abstract",
+                "path": "/DH-V3/abstract",
                 "label": "abstract"
               }
             }

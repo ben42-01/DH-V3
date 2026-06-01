@@ -7,10 +7,10 @@ export default {
   "title": "TraceReality Documentation",
   "tagline": "Evolutionary Learning in Hidden Markov Worlds",
   "favicon": "img/logo.png",
-  "url": "http://localhost:3000",
-  "baseUrl": "/",
-  "organizationName": "dh-v3",
-  "projectName": "tracereality-docs",
+  "url": "https://ben42-01.github.io",
+  "baseUrl": "/DH-V3/",
+  "organizationName": "ben42-01",
+  "projectName": "DH-V3",
   "onBrokenLinks": "warn",
   "markdown": {
     "hooks": {
@@ -46,10 +46,16 @@ export default {
           "sidebarPath": "/home/benjamin/develop/dh-v3/documentation/sidebars.js",
           "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation",
           "remarkPlugins": [
-            null
+            [
+              null,
+              {}
+            ]
           ],
           "rehypePlugins": [
-            null
+            [
+              null,
+              {}
+            ]
           ]
         },
         "blog": false,

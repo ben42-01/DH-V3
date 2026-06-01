@@ -5,7 +5,7 @@
   "source": "@site/docs/core-concepts.md",
   "sourceDirName": ".",
   "slug": "/core-concepts",
-  "permalink": "/core-concepts",
+  "permalink": "/DH-V3/core-concepts",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/core-concepts.md",
@@ -18,11 +18,11 @@
   },
   "sidebar": "docsSidebar",
   "previous": {
-    "title": "TraceReality",
-    "permalink": "/intro"
+    "title": "intro",
+    "permalink": "/DH-V3/intro"
   },
   "next": {
     "title": "Running Experiments",
-    "permalink": "/running-experiments"
+    "permalink": "/DH-V3/running-experiments"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/experiments/exp-04.md",
   "sourceDirName": "experiments",
   "slug": "/experiments/exp-04",
-  "permalink": "/experiments/exp-04",
+  "permalink": "/DH-V3/experiments/exp-04",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/experiments/exp-04.md",
@@ -19,6 +19,6 @@
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Exp 03 - Generation Scaling",
-    "permalink": "/experiments/exp-03"
+    "permalink": "/DH-V3/experiments/exp-03"
   }
 }

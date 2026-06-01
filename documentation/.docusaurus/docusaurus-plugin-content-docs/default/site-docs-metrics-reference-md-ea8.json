@@ -5,7 +5,7 @@
   "source": "@site/docs/metrics-reference.md",
   "sourceDirName": ".",
   "slug": "/metrics-reference",
-  "permalink": "/metrics-reference",
+  "permalink": "/DH-V3/metrics-reference",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/metrics-reference.md",
@@ -19,10 +19,10 @@
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Running Experiments",
-    "permalink": "/running-experiments"
+    "permalink": "/DH-V3/running-experiments"
   },
   "next": {
     "title": "Results Interpretation",
-    "permalink": "/results-interpretation"
+    "permalink": "/DH-V3/results-interpretation"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/experiments/exp-02.md",
   "sourceDirName": "experiments",
   "slug": "/experiments/exp-02",
-  "permalink": "/experiments/exp-02",
+  "permalink": "/DH-V3/experiments/exp-02",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/experiments/exp-02.md",
@@ -19,10 +19,10 @@
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Exp 01 - Baseline",
-    "permalink": "/experiments/exp-01"
+    "permalink": "/DH-V3/experiments/exp-01"
   },
   "next": {
     "title": "Exp 03 - Generation Scaling",
-    "permalink": "/experiments/exp-03"
+    "permalink": "/DH-V3/experiments/exp-03"
   }
 }

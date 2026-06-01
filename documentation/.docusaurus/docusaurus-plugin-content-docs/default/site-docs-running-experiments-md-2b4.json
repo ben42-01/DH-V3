@@ -5,7 +5,7 @@
   "source": "@site/docs/running-experiments.md",
   "sourceDirName": ".",
   "slug": "/running-experiments",
-  "permalink": "/running-experiments",
+  "permalink": "/DH-V3/running-experiments",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/running-experiments.md",
@@ -19,10 +19,10 @@
   "sidebar": "docsSidebar",
   "previous": {
     "title": "Core Concepts",
-    "permalink": "/core-concepts"
+    "permalink": "/DH-V3/core-concepts"
   },
   "next": {
     "title": "Metrics Reference",
-    "permalink": "/metrics-reference"
+    "permalink": "/DH-V3/metrics-reference"
   }
 }

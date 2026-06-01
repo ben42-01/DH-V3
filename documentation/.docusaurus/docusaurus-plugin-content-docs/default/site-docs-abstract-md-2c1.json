@@ -5,7 +5,7 @@
   "source": "@site/docs/abstract.md",
   "sourceDirName": ".",
   "slug": "/abstract",
-  "permalink": "/abstract",
+  "permalink": "/DH-V3/abstract",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/abstract.md",
@@ -14,7 +14,7 @@
   "frontMatter": {},
   "sidebar": "docsSidebar",
   "next": {
-    "title": "TraceReality",
-    "permalink": "/intro"
+    "title": "intro",
+    "permalink": "/DH-V3/intro"
   }
 }
