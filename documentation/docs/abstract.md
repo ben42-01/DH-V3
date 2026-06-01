@@ -3,7 +3,6 @@
 
 _Data drops to whispers, compressed till it clears,Refining the chaos to map out our fears.For a world made of signals is fragile and blind,Until it is stitched in the loom of the mind;And the lines of the matrix hold steady and true,Not by counting the facts, but by shaping the view._ 
 
-Benjamin Keil 2026
 
 ### *A Computational Test of the Interface Theory of Consciousness*
 
