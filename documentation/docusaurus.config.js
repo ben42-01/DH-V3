@@ -40,7 +40,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/yourusername/dh-v3/tree/main/documentation',
           remarkPlugins: [[math, {}]],
-          rehypePlugins: [[katex, {}]],
+          rehypePlugins: [[katex.default, {}]],
         },
         blog: false,
         theme: {
