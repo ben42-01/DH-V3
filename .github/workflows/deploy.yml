@@ -36,12 +36,16 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./documentation/build
-
   deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment: github-pages
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      needs: build
+      runs-on: ubuntu-latest
+      
+      # Expand environment into an object with a url key:
+      environment:
+        name: github-pages
+        url: ${{ steps.deployment.outputs.page_url }}
+        
+      steps:
+        - name: Deploy to GitHub Pages
+          id: deployment
+          uses: actions/deploy-pages@v4
