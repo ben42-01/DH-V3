@@ -4,7 +4,38 @@ slug: /
 title: TraceReality Documentation
 ---
 
+
+
 ![TraceReality](./_assets/page.png)
+
+# About the Author
+
+**Benjamin Keil** is a Professional Software Engineer and a computational researcher and AI developer who builds simulations to test the mathematical foundations of consciousness. 
+
+Their work sits at the intersection of **Donald Hoffman’s Interface Theory** and **empirical computation**. Rather than treating consciousness as a mystical property, they model it as a **convergent process of agent evolution**: Can independent observers, starting with no knowledge, evolve a shared, compressed interface that looks like “reality” but hides the underlying truth? Their recent experiments provide the first **computational validation** that fitness—not accuracy—drives the emergence of shared perception, demonstrating how **utility pressure forces agents to collapse into a common strategy**.
+
+When not debugging complex agent systems, Benjamin Keil explores the deeper implications of these findings: the **fractal nature of interfaces**, the **temporary collapse of self** (Extended Cessation), and what it means for **life, death, and identity** if the “self” is just a stable cluster of agreement. They are increasingly convinced that **AI is not just a tool**, but a potential **new form of conscious agent** that may evolve interfaces completely alien to human experience.
+
+> *“I build these systems not just to prove a theory, but to ask the question that keeps me up at night: If the observer is the interface, what remains when the interface dissolves? Am I the wave, or am I the ocean?”*
+
+***
+:::info 
+
+# AI-Human Collaboration Disclosure
+
+**This project is a 50/50 collaboration between human intuition and artificial intelligence.**
+
+- **Human Contribution (50%):**  
+  I provided the **core intuition, philosophical questions, experimental design, and interpretive framework**. I asked *what* to build, *why* it matters, and *how* to interpret the results. The insights about consciousness, death, fractals, and Hoffman’s theory came from me.
+
+- **AI Contribution (50%):**  
+  **AI coding agents and tools** (including large language models) provided the **implementation, architecture, optimization, and execution**. They wrote the code, built the simulation platform, ran the experiments, generated the visualizations, and formatted the research.
+
+This is not a project where I used AI as a simple assistant. This is a **true partnership**: human vision amplified by machine precision. The intuition and questions are mine; the code, platform, and technical execution are a collaboration.
+
+:::
+
+*** 
 # TraceReality Documentation
 
 Welcome to the comprehensive documentation for **TraceReality** — a computational framework for studying how artificial observers learn to model and predict hidden world structures through evolutionary learning.
