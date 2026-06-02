@@ -46,6 +46,26 @@
               "sidebar": "docsSidebar"
             },
             {
+              "id": "experiments/exp-05",
+              "path": "/DH-V3/experiments/exp-05",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "experiments/exp-06",
+              "path": "/DH-V3/experiments/exp-06",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "experiments/exp-07",
+              "path": "/DH-V3/experiments/exp-07",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "experiments/exp-08",
+              "path": "/DH-V3/experiments/exp-08",
+              "sidebar": "docsSidebar"
+            },
+            {
               "id": "index",
               "path": "/DH-V3/",
               "sidebar": "docsSidebar"

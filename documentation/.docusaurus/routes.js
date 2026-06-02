@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/DH-V3/',
-    component: ComponentCreator('/DH-V3/', 'fa6'),
+    component: ComponentCreator('/DH-V3/', '843'),
     routes: [
       {
         path: '/DH-V3/',
-        component: ComponentCreator('/DH-V3/', '4d7'),
+        component: ComponentCreator('/DH-V3/', 'c1b'),
         routes: [
           {
             path: '/DH-V3/',
-            component: ComponentCreator('/DH-V3/', '99a'),
+            component: ComponentCreator('/DH-V3/', '5d4'),
             routes: [
               {
                 path: '/DH-V3/abstract',
@@ -88,6 +88,30 @@ export default [
               {
                 path: '/DH-V3/experiments/exp-04',
                 component: ComponentCreator('/DH-V3/experiments/exp-04', 'fa2'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/DH-V3/experiments/exp-05',
+                component: ComponentCreator('/DH-V3/experiments/exp-05', 'e8b'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/DH-V3/experiments/exp-06',
+                component: ComponentCreator('/DH-V3/experiments/exp-06', 'c65'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/DH-V3/experiments/exp-07',
+                component: ComponentCreator('/DH-V3/experiments/exp-07', '79f'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/DH-V3/experiments/exp-08',
+                component: ComponentCreator('/DH-V3/experiments/exp-08', '911'),
                 exact: true,
                 sidebar: "docsSidebar"
               },

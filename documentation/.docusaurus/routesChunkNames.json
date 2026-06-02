@@ -42,17 +42,17 @@
       "plugin": "plugin---dh-v-3-docusaurus-debugb-38-c68"
     }
   },
-  "/DH-V3/-fa6": {
+  "/DH-V3/-843": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---dh-v-3-aba-2c2"
     }
   },
-  "/DH-V3/-4d7": {
+  "/DH-V3/-c1b": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---dh-v-3-a-45-01c"
   },
-  "/DH-V3/-99a": {
+  "/DH-V3/-5d4": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/DH-V3/abstract-50b": {
@@ -82,6 +82,22 @@
   "/DH-V3/experiments/exp-04-fa2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dh-v-3-experiments-exp-041-dd-502"
+  },
+  "/DH-V3/experiments/exp-05-e8b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dh-v-3-experiments-exp-05517-31a"
+  },
+  "/DH-V3/experiments/exp-06-c65": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dh-v-3-experiments-exp-06731-3bd"
+  },
+  "/DH-V3/experiments/exp-07-79f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dh-v-3-experiments-exp-079-cd-46d"
+  },
+  "/DH-V3/experiments/exp-08-911": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dh-v-3-experiments-exp-08-cef-008"
   },
   "/DH-V3/intro-d79": {
     "__comp": "__comp---theme-doc-item-178-a40",

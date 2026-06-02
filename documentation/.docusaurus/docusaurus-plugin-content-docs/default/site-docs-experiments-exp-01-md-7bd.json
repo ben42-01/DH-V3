@@ -8,7 +8,7 @@
   "permalink": "/DH-V3/experiments/exp-01",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/experiments/exp-01.md",
+  "editUrl": "https://github.com/ben42-01/DH-V3/tree/main/documentation/docs/experiments/exp-01.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -22,7 +22,7 @@
     "permalink": "/DH-V3/experiments"
   },
   "next": {
-    "title": "Exp 02 - Extended Run (200k Steps)",
+    "title": "Exp 02 - Extended Run",
     "permalink": "/DH-V3/experiments/exp-02"
   }
 }

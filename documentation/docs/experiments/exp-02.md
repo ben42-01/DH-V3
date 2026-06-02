@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Exp 02 - Extended Run (200k Steps)
+title: Exp 02 - Extended Run 
 ---
 
 # Experiment 02: Extended Simulation

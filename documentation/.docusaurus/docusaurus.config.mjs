@@ -44,7 +44,7 @@ export default {
         "docs": {
           "routeBasePath": "/",
           "sidebarPath": "/home/benjamin/develop/dh-v3/documentation/sidebars.js",
-          "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation",
+          "editUrl": "https://github.com/ben42-01/DH-V3/tree/main/documentation",
           "remarkPlugins": [
             [
               null,
@@ -87,7 +87,7 @@ export default {
           "label": "Documentation"
         },
         {
-          "href": "https://github.com/yourusername/dh-v3",
+          "href": "https://github.com/ben42-01/DH-V3",
           "label": "GitHub",
           "position": "right"
         }

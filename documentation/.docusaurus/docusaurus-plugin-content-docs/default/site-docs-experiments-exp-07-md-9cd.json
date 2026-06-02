@@ -1,0 +1,28 @@
+{
+  "id": "experiments/exp-07",
+  "title": "Exp 07 - Harder World",
+  "description": "Research Question",
+  "source": "@site/docs/experiments/exp-07.md",
+  "sourceDirName": "experiments",
+  "slug": "/experiments/exp-07",
+  "permalink": "/DH-V3/experiments/exp-07",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ben42-01/DH-V3/tree/main/documentation/docs/experiments/exp-07.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Exp 07 - Harder World"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exp 06 - Count-Based Baseline",
+    "permalink": "/DH-V3/experiments/exp-06"
+  },
+  "next": {
+    "title": "Exp 08 - Aggressive Evolution",
+    "permalink": "/DH-V3/experiments/exp-08"
+  }
+}

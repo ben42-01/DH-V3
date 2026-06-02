@@ -1,0 +1,28 @@
+{
+  "id": "experiments/exp-05",
+  "title": "Exp 05 - No Evolution Ablation",
+  "description": "Research Question",
+  "source": "@site/docs/experiments/exp-05.md",
+  "sourceDirName": "experiments",
+  "slug": "/experiments/exp-05",
+  "permalink": "/DH-V3/experiments/exp-05",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ben42-01/DH-V3/tree/main/documentation/docs/experiments/exp-05.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Exp 05 - No Evolution Ablation"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exp 04 - Population Scaling",
+    "permalink": "/DH-V3/experiments/exp-04"
+  },
+  "next": {
+    "title": "Exp 06 - Count-Based Baseline",
+    "permalink": "/DH-V3/experiments/exp-06"
+  }
+}

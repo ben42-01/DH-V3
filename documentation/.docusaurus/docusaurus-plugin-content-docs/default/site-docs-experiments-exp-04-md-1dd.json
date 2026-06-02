@@ -8,7 +8,7 @@
   "permalink": "/DH-V3/experiments/exp-04",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/experiments/exp-04.md",
+  "editUrl": "https://github.com/ben42-01/DH-V3/tree/main/documentation/docs/experiments/exp-04.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -20,5 +20,9 @@
   "previous": {
     "title": "Exp 03 - Generation Scaling",
     "permalink": "/DH-V3/experiments/exp-03"
+  },
+  "next": {
+    "title": "Exp 05 - No Evolution Ablation",
+    "permalink": "/DH-V3/experiments/exp-05"
   }
 }

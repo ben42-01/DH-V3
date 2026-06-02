@@ -1,6 +1,6 @@
 {
   "id": "experiments/exp-02",
-  "title": "Exp 02 - Extended Run (200k Steps)",
+  "title": "Exp 02 - Extended Run",
   "description": "Research Question",
   "source": "@site/docs/experiments/exp-02.md",
   "sourceDirName": "experiments",
@@ -8,13 +8,13 @@
   "permalink": "/DH-V3/experiments/exp-02",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/yourusername/dh-v3/tree/main/documentation/docs/experiments/exp-02.md",
+  "editUrl": "https://github.com/ben42-01/DH-V3/tree/main/documentation/docs/experiments/exp-02.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2,
-    "title": "Exp 02 - Extended Run (200k Steps)"
+    "title": "Exp 02 - Extended Run"
   },
   "sidebar": "docsSidebar",
   "previous": {

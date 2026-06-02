@@ -1,0 +1,28 @@
+{
+  "id": "experiments/exp-06",
+  "title": "Exp 06 - Count-Based Baseline",
+  "description": "Research Question",
+  "source": "@site/docs/experiments/exp-06.md",
+  "sourceDirName": "experiments",
+  "slug": "/experiments/exp-06",
+  "permalink": "/DH-V3/experiments/exp-06",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ben42-01/DH-V3/tree/main/documentation/docs/experiments/exp-06.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Exp 06 - Count-Based Baseline"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exp 05 - No Evolution Ablation",
+    "permalink": "/DH-V3/experiments/exp-05"
+  },
+  "next": {
+    "title": "Exp 07 - Harder World",
+    "permalink": "/DH-V3/experiments/exp-07"
+  }
+}

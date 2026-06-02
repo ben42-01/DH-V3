@@ -1,0 +1,24 @@
+{
+  "id": "experiments/exp-08",
+  "title": "Exp 08 - Aggressive Evolution",
+  "description": "Research Question",
+  "source": "@site/docs/experiments/exp-08.md",
+  "sourceDirName": "experiments",
+  "slug": "/experiments/exp-08",
+  "permalink": "/DH-V3/experiments/exp-08",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ben42-01/DH-V3/tree/main/documentation/docs/experiments/exp-08.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Exp 08 - Aggressive Evolution"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exp 07 - Harder World",
+    "permalink": "/DH-V3/experiments/exp-07"
+  }
+}
