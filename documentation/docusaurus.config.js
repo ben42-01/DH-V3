@@ -38,7 +38,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/yourusername/dh-v3/tree/main/documentation',
+          editUrl: 'https://github.com/ben42-01/DH-V3/tree/main/documentation',
           remarkPlugins: [[math, {}]],
           rehypePlugins: [[katex.default, {}]],
         },
@@ -75,7 +75,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/yourusername/dh-v3',
+            href: 'https://github.com/ben42-01/DH-V3',
             label: 'GitHub',
             position: 'right',
           },
