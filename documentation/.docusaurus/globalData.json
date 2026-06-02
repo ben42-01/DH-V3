@@ -66,6 +66,11 @@
               "sidebar": "docsSidebar"
             },
             {
+              "id": "glossary",
+              "path": "/DH-V3/glossary",
+              "sidebar": "docsSidebar"
+            },
+            {
               "id": "index",
               "path": "/DH-V3/",
               "sidebar": "docsSidebar"

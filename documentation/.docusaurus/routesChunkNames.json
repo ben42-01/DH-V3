@@ -42,17 +42,17 @@
       "plugin": "plugin---dh-v-3-docusaurus-debugb-38-c68"
     }
   },
-  "/DH-V3/-843": {
+  "/DH-V3/-b14": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---dh-v-3-aba-2c2"
     }
   },
-  "/DH-V3/-c1b": {
+  "/DH-V3/-4c6": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---dh-v-3-a-45-01c"
   },
-  "/DH-V3/-5d4": {
+  "/DH-V3/-0fe": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/DH-V3/abstract-50b": {
@@ -98,6 +98,10 @@
   "/DH-V3/experiments/exp-08-911": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dh-v-3-experiments-exp-08-cef-008"
+  },
+  "/DH-V3/glossary-19b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dh-v-3-glossarye-74-526"
   },
   "/DH-V3/intro-d79": {
     "__comp": "__comp---theme-doc-item-178-a40",

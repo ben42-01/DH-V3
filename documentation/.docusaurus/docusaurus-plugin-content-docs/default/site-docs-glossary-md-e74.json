@@ -1,0 +1,24 @@
+{
+  "id": "glossary",
+  "title": "🚀 Hitchhiker's Guide",
+  "description": "WARNING: The contents of this guide have been compiled from the finest minds in computational neuroscience,",
+  "source": "@site/docs/glossary.md",
+  "sourceDirName": ".",
+  "slug": "/glossary",
+  "permalink": "/DH-V3/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ben42-01/DH-V3/tree/main/documentation/docs/glossary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "🚀 Hitchhiker's Guide"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exp 08 - Aggressive Evolution",
+    "permalink": "/DH-V3/experiments/exp-08"
+  }
+}

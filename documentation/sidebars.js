@@ -28,7 +28,8 @@ const sidebars = {
           ],
         },
       ],
-    }
+    },
+    'glossary',
   ],
 };
 

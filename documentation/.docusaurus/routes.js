@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/DH-V3/',
-    component: ComponentCreator('/DH-V3/', '843'),
+    component: ComponentCreator('/DH-V3/', 'b14'),
     routes: [
       {
         path: '/DH-V3/',
-        component: ComponentCreator('/DH-V3/', 'c1b'),
+        component: ComponentCreator('/DH-V3/', '4c6'),
         routes: [
           {
             path: '/DH-V3/',
-            component: ComponentCreator('/DH-V3/', '5d4'),
+            component: ComponentCreator('/DH-V3/', '0fe'),
             routes: [
               {
                 path: '/DH-V3/abstract',
@@ -112,6 +112,12 @@ export default [
               {
                 path: '/DH-V3/experiments/exp-08',
                 component: ComponentCreator('/DH-V3/experiments/exp-08', '911'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/DH-V3/glossary',
+                component: ComponentCreator('/DH-V3/glossary', '19b'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
