@@ -20,7 +20,7 @@ We present a **computational validation** of the *Fitness-Beats-Truth* (FBT) the
 | **3. Compression Over Truth** | Mutual Information = **-0.086** | Observers systematically discarded raw information, trading truth for utility just as ITC predicts. |
 | **4. Policy Convergence** | Pairwise KL Divergence: <br />
 
-<br />Peak: **0.070** $\rightarrow$ Decline: **0.066** | Introduction of reward caused policy exploration followed by stabilization around a high-reward strategy. |
+<br />Peak: **0.070** → Decline: **0.066** | Introduction of reward caused policy exploration followed by stabilization around a high-reward strategy. |
 
 These results offer **empirical validation** that independent agents evolving under fitness pressure naturally converge on a **shared, compressed interface** rather than a perfect model of reality. This could support the hypothesis that **consciousness is a network of cooperative agents** that stabilize a common interface as a **fit summary** of hidden structure—not as truth.
 
@@ -61,7 +61,7 @@ In this paper, we present such an experiment. We construct a **toy world** with:
 * **40 independent neural network observers** with no shared training, no communication, and no pre-wired knowledge of the clusters.
 * **Evolution via selection and mutation** over 50 generations, with fitness based on either prediction accuracy (*passive mode*) or cumulative reward (*utility mode*).
 
-Observers receive only **traces** of state transitions (e.g., `State A → State C → State B ...`) and must learn to predict or act. We measure cluster discovery, state space compression ($80 \rightarrow 8$), interface convergence across independent runs, and the accelerating impact of utility pressure.
+Observers receive only **traces** of state transitions (e.g., `State A → State C → State B ...`) and must learn to predict or act. We measure cluster discovery, state space compression (80 → 8), interface convergence across independent runs, and the accelerating impact of utility pressure.
 
 ---
 
@@ -89,10 +89,10 @@ When utility is introduced, observers will first explore diverse policies, then 
 
 ## 1.6 Document Roadmap
 
-* **`Section 2: Methods`** $\rightarrow$ Details the world construction, observer architecture, evolution protocol, and evaluative metrics.
-* **`Section 3: Results`** $\rightarrow$ Presents empirical data on cluster recovery, convergence consistency, compression rates, and policy mapping.
-* **`Section 4: Discussion`** $\rightarrow$ Examines implications for ITC, the nature of the self, artificial consciousness, and fractal reality models.
-* **`Section 5: Conclusion`** $\rightarrow$ Concludes with a synthesis of foundational findings and strategic directions for future work.
+* **`Section 2: Methods`** → Details the world construction, observer architecture, evolution protocol, and evaluative metrics.
+* **`Section 3: Results`** → Presents empirical data on cluster recovery, convergence consistency, compression rates, and policy mapping.
+* **`Section 4: Discussion`** → Examines implications for ITC, the nature of the self, artificial consciousness, and fractal reality models.
+* **`Section 5: Conclusion`** → Concludes with a synthesis of foundational findings and strategic directions for future work.
 
 ---
 

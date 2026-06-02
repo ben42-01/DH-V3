@@ -1,7 +1,7 @@
 {
   "id": "abstract",
-  "title": "Convergent Evolution of Simplified Interfaces",
-  "description": "Data drops to whispers, compressed till it clears,Refining the chaos to map out our fears.For a world made of signals is fragile and blind,Until it is stitched in the loom of the mind;And the lines of the matrix hold steady and true,Not by counting the facts, but by shaping the view.",
+  "title": "Abstract",
+  "description": "Donald Hoffman’s Interface Theory of Consciousness posits that perceptual experience is not a window into objective reality, but a species-specific interface shaped by natural selection to maximize fitness, not truth. According to this view, spacetime, objects, and the self are merely “desktop icons”—simplified summaries of hidden structure that guide adaptive behavior, while the underlying reality remains forever inaccessible.",
   "source": "@site/docs/abstract.md",
   "sourceDirName": ".",
   "slug": "/abstract",
@@ -14,7 +14,7 @@
   "frontMatter": {},
   "sidebar": "docsSidebar",
   "previous": {
-    "title": "TraceReality Documentation",
+    "title": "Welcome",
     "permalink": "/DH-V3/"
   },
   "next": {

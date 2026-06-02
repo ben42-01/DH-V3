@@ -1,7 +1,7 @@
 {
   "id": "index",
-  "title": "TraceReality Documentation",
-  "description": "TraceReality",
+  "title": "Welcome",
+  "description": "Data drops to whispers, compressed till it clears,Refining the chaos to map out our fears.For a world made of signals is fragile and blind,Until it is stitched in the loom of the mind;And the lines of the matrix hold steady and true,Not by counting the facts, but by shaping the view.",
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -15,11 +15,11 @@
   "frontMatter": {
     "sidebar_position": 0,
     "slug": "/",
-    "title": "TraceReality Documentation"
+    "title": "Welcome"
   },
   "sidebar": "docsSidebar",
   "next": {
-    "title": "Convergent Evolution of Simplified Interfaces",
+    "title": "Abstract",
     "permalink": "/DH-V3/abstract"
   }
 }
