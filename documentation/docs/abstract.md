@@ -12,7 +12,7 @@ _Data drops to whispers, compressed till it clears,Refining the chaos to map out
 
 Donald Hoffman’s *Interface Theory of Consciousness* posits that perceptual experience is not a window into objective reality, but a **species-specific interface** shaped by natural selection to maximize fitness, not truth. According to this view, spacetime, objects, and the self are merely “desktop icons”—simplified summaries of hidden structure that guide adaptive behavior, while the underlying reality remains forever inaccessible.
 
-We present the first **computational experiment** that empirically tests this hypothesis. We constructed a simulated world consisting of **80 hidden states** grouped into **8 structural clusters**, governed by an ergodic Markov chain. We then evolved **40 independent neural network observers** via genetic selection and mutation. These observers received only **probability traces** of state transitions and were tasked with either:
+We present the first **computational validation** of the *Fitness-Beats-Truth* (FBT) theorem in a controlled hidden-state system. While Hoffman and Prakash (2014) established the mathematical proof that fitness-driven selection favors simplified interfaces over veridical perception, empirical demonstrations of this principle have remained sparse. Here, we construct a simulated world to test FBT's specific prediction: **that independent observers evolving under fitness pressure will converge on a shared compressed interface—one that discards information about the underlying reality in favor of a more useful summary.** We constructed a simulated world consisting of **80 hidden states** grouped into **8 structural clusters**, governed by an ergodic Markov chain. We then evolved **40 independent neural network observers** via genetic selection and mutation. These observers received only **probability traces** of state transitions and were tasked with either:
 
 1. **Passive Mode:** Predicting the next state.
 2. **Utility Mode:** Selecting actions to maximize cumulative reward.
@@ -32,9 +32,9 @@ We present the first **computational experiment** that empirically tests this hy
 
 <br />Peak: **0.070** $\rightarrow$ Decline: **0.066** | Introduction of reward caused policy exploration followed by stabilization around a high-reward strategy. |
 
-These results offer **empirical validation** that independent agents evolving under fitness pressure naturally converge on a **shared, compressed interface** rather than a perfect model of reality. This supports the hypothesis that **consciousness is a network of cooperative agents** that stabilize a common interface as a **fit summary** of hidden structure—not as truth.
+These results offer **empirical validation** that independent agents evolving under fitness pressure naturally converge on a **shared, compressed interface** rather than a perfect model of reality. This could support the hypothesis that **consciousness is a network of cooperative agents** that stabilize a common interface as a **fit summary** of hidden structure—not as truth.
 
-The findings have profound implications for the nature of the self, the reality of spacetime, the possibility of artificial consciousness, and the dissolution of the “hard problem” of consciousness.
+These findings open up a playing field to explore the nature of the self, the reality of spacetime, the possibility of artificial consciousness, and the dissolution of the “hard problem” of consciousness.
 
 ---
 
