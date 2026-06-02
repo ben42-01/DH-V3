@@ -1,14 +1,4 @@
-
-# Convergent Evolution of Simplified Interfaces
-
-_Data drops to whispers, compressed till it clears,Refining the chaos to map out our fears.For a world made of signals is fragile and blind,Until it is stitched in the loom of the mind;And the lines of the matrix hold steady and true,Not by counting the facts, but by shaping the view._ 
-
-
-### *A Computational Test of the Interface Theory of Consciousness*
-
----
-
-## Abstract
+# Abstract
 
 Donald Hoffman’s *Interface Theory of Consciousness* posits that perceptual experience is not a window into objective reality, but a **species-specific interface** shaped by natural selection to maximize fitness, not truth. According to this view, spacetime, objects, and the self are merely “desktop icons”—simplified summaries of hidden structure that guide adaptive behavior, while the underlying reality remains forever inaccessible.
 
